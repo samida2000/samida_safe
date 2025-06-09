@@ -1,0 +1,15 @@
+# ملفات البيئة
+server/.env
+client/.env
+
+# تبعيات npm
+node_modules/
+*/node_modules/
+
+# ملفات النظام
+.DS_Store
+.idea/
+
+# ملفات البناء
+dist/
+build/
